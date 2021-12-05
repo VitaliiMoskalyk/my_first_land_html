@@ -8,7 +8,7 @@ body {
 .main_container {
   display: flex;
   flex-direction: row-reverse;
-  width: 1200px;
+  width: 1120px;
   background-color: white;
   margin: 40px auto;
   height: 1319px;
