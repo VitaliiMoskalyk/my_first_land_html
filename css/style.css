@@ -45,7 +45,7 @@ body {
   font-size: 14px;
   line-height: 24px;
   width: 600px;
-  color: #595959;
+  color: #2e2d2d;
 }
 
 /* Main content title*/
@@ -71,7 +71,7 @@ body {
   font-weight: normal;
   font-size: 14px;
   line-height: 24px;
-  color: #595959;
+  color: #2e2d2d;
   margin-left: 5px;
 }
 .projects_link {
@@ -79,7 +79,7 @@ body {
   font-weight: normal;
   font-size: 14px;
   line-height: 24px;
-  color: #595959;
+  color: #2e2d2d;
 }
 .projects_bracket {
   font-style: normal;
@@ -120,7 +120,7 @@ body {
   font-weight: normal;
   font-size: 12px;
   line-height: 15px;
-  color: #a8a8a8;
+  color: #2e2d2d;
   margin: 0 0 10px 0;
 }
 .bracket_2 {
@@ -135,7 +135,7 @@ body {
   font-weight: normal;
   font-size: 14px;
   line-height: 24px;
-  color: #595959;
+  color: #2e2d2d;
 }
 
 /* sidebar section */
