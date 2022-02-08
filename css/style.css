@@ -12,12 +12,12 @@ body {
   background-color: white;
   margin: 40px auto;
   height: 1319px;
-  box-shadow: 6px 6px 20px;
+  /* box-shadow: 6px 6px 20px; */
 }
 
 /* main_content_section */
 .main_content_section {
-  padding: 100px 90px;
+  padding: 20px 90px;
   background-color: white;
 }
 
@@ -35,9 +35,9 @@ body {
 .about_me_name {
   font-style: normal;
   font-weight: bold;
-  font-size: 45px;
+  font-size: 36px;
   line-height: 55px;
-  margin: 0 0 25px 0;
+  margin: 0 0 10px 0;
 }
 .about_me {
   font-style: normal;
@@ -52,7 +52,7 @@ body {
 .main_content_title {
   font-style: normal;
   font-weight: bold;
-  font-size: 22px;
+  font-size: 18px;
   line-height: 27px;
   color: #000000;
   margin-top: 10px;
@@ -60,7 +60,7 @@ body {
 /*my projects section  */
 
 .my_projects_section {
-  margin: 40px 0px 50px 0px;
+  margin: 20px 0px 10px 0px;
 }
 .projects_item {
   color: #000000;
@@ -109,10 +109,10 @@ body {
   color: #000000;
 }
 .my_work_section {
-  margin: 50px 0px;
+  margin: 20px 0px;
 }
 .my_education_section {
-  margin: 50px 0px;
+  margin: 20px 0px;
   color: rgb(12, 12, 12);
 }
 .my_work_date {
