@@ -98,7 +98,7 @@ body {
   font-size: 16px;
   line-height: 20px;
   color: #fb6d3a;
-  margin: 10px 0 10px 0;
+  margin: 5px 0 5px 0;
 }
 .my_work_title {
   font-style: normal;
@@ -194,4 +194,8 @@ body {
 .Tech_Skills_section,
 .Soft_Skills_section {
   margin: 50px 0 0 40px;
+}
+
+.main_content_name{
+  margin: 10px 0;
 }
